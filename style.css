@@ -1,0 +1,440 @@
+ .navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+.navbar .nav-item p {
+    color: #464E5B;
+    
+}
+.navbar-nav .nav-link:hover {
+    color: blue;
+}
+
+.dropcar {
+    width: 300px;
+    height: 70px;
+    padding-bottom: 10px;
+
+}
+.dropcar .img-fluid {
+    width: 100%;
+}
+.dropdown-menu img {
+    width: 30px;
+}
+
+.custom-card {
+    padding: 20px;
+    background-color: #f7f9fc;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.navbar .btn:hover {
+    border-color: blue;
+color: blue;
+}
+
+
+/* .navbar {
+    height: 4em;
+} */
+
+  .custom-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 16px;
+    background-color: #fff;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: #000;
+  }
+
+  .custom-icon {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    background-color: #FFD700;
+    color: #000;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-weight: 500;
+
+  }
+
+  .custom-text {
+    font-weight: 400;
+    font-size: 16px;
+  }
+section span {
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+
+.head3 .card-group {
+        gap: 40px;
+        text-decoration: none;
+        
+}
+.head3 .card {
+      height: 40vh;
+      width: 100%;
+      
+}
+.card-group a {
+    text-decoration: none;
+}
+.arrow {
+    background-color: #000;
+    color: white;
+    margin-left: auto;
+    border-radius: 50%;
+    
+}
+.arrow:hover {
+    background-color: blue;
+    color: white;
+}
+
+.head3 .card {
+    padding: 20px;
+    
+}
+section {
+    background-image: url(/IMAGES/Home_Hero_R4_2x.webp);
+    background-size: cover;
+    background-position:  center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 20px;
+    margin-bottom: 100px;
+    margin-top: 0px;
+    
+}
+.card-group img {
+    width: 70px;
+    padding: 10px;
+}
+
+header .headimg {
+    border-radius: 20px;    
+    height: 80vh;
+}
+header .perp {
+    font-size: 72px;
+    font-weight: 600;
+    padding-top: 200px;
+}
+.cust h2 {
+    font-size: 56px;
+    font-weight: 600;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+hr {
+    margin-top: 200px;
+}
+.cardgrp {
+    margin-top: 100px;
+    display: flex;
+    gap:20px;
+    /* column-gap: 20px;    */
+}
+.cardgrp img {
+    height: 50%;
+    width: 100%;
+}
+.cardgrp .card {
+        width: 100%;
+        height: 120%;
+        border-radius: 20px;
+        
+}
+.herovg {
+    position: absolute;
+    width: 30% !important;
+    padding-bottom: 120px;
+    padding-left: 20px;
+}
+.head3 {
+    padding-left: 100px;
+    font-size: larger;
+}
+.head3 h1 {
+    font-size: 50px;
+     margin-bottom: 100px;
+}
+.head4 .card, img {
+    border-radius: 20px;
+}
+.head4 .card {
+    border: 0;
+}
+ .btn {
+    border-radius: 25px;
+    border: solid black 2px;
+}
+.head4 .btn:hover {
+    background-color: white;
+    color: blue;
+    border-color: blue;
+}
+.container .btn:hover {
+    background-color: white;
+    color: blue!important;
+    border-color: blue;
+}
+.head5 .card {
+    padding: 30px;
+    background-color: white;
+    height: 35vh;
+   
+} 
+ .head5  .card:hover {
+        outline: 1px solid blue;
+}
+ .head3  .card:hover {
+        outline: 1px solid blue;
+}
+.head3 .card {
+    border: 1px solid rgba(0, 0, 255, 0.57);
+}
+.head5 h1{
+    font-size: 3.5em;
+    padding-bottom: 20px;
+}
+.head6 a {
+    text-decoration: none;
+    color: #2B2D31;
+    font-size: 16px;
+}
+.head6 {
+    padding: 100px;
+    
+}
+.btm a {
+    text-decoration: none;
+    color: #2B2D31;
+    font-size: 16px;
+}
+.btm a:hover {
+    color: blue;
+}
+header .head6 a:hover {
+    color: blue;
+}
+.head4 .card {
+    height: 80vh;
+}
+.navimg {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+.container a {
+    text-decoration: none;
+    color: #2B2D31;
+}
+.vertical-line {
+    border-left: 1px solid 
+    #2A3039;
+    height: 50vh;
+    padding-right: 10px;
+}
+.fotdion {
+    display: none;
+}
+.head5 .card .arrow {
+    margin-left: auto;
+    padding: 10px;
+    
+}
+.hero4 {
+    border-radius: 20px;
+    border: 2px solid black;
+    width: fit-content;
+    padding: 8px;
+    cursor: pointer;
+    font-weight: 500;
+}
+/* .hero4:hover {
+    background-color: white;
+    color: blue;
+    border-color: blue;
+} */
+a .hero4:hover {
+    color: blue;
+    border-color: blue;
+}
+.navhid {
+    display: none;
+}
+
+
+
+
+@media  screen and (max-width:576px) {
+    header .headimg {
+        width: 100%;
+        height: 50vh;
+}
+nav .navshoww {
+    display: none;
+}
+.navhid a {
+margin: 5px;
+}
+.navhid {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 200px;
+    
+}
+.cust3 .btn {
+    margin-left: 20px;
+}
+.fotdion {
+    display: block;
+}
+.headna {
+    display: none;
+}
+.h3d {
+    display: none;
+}
+.fourhero {
+    padding: 10px;
+}
+
+.navbar-nav .dropdown-item img {
+    width: 24px;
+    height: auto;
+}
+
+.dropdown-menu {
+    width: 100%;
+    max-width: 350px;
+}
+
+.fourhero .row {
+    padding: 10px;
+}
+
+.navbar-brand img {
+    width: 150px;
+    height: auto;
+}
+.navbar-toggler {
+    border: none;
+}
+.vertical-line {
+    display: none;
+}
+
+
+.navbar-nav .dropdown:hover {
+    display: none;
+    
+}
+.dropcar img {
+    display: none;
+}
+section .hero span {
+    font-size: 2em;
+}
+.custom-card {
+    background-color: #f7f9fc;
+    width: 100%;
+}
+.card-group {
+    padding: 10px;
+}
+.cust h2 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+.cardgrp a {
+   margin: 10px;
+   padding: 10px; 
+}
+.cust3 {
+    padding: 10px;
+}
+
+.dis .btn {
+    margin-left: 20px!important;    
+}
+.dis .custom-card {
+    padding-left: 20px;
+}
+
+.head3 .card {
+    height: 40vh;
+    margin-top: 15px;
+}
+
+header .revers {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.container-fluid .navimg{
+    position: fixed;
+    top: 0%;
+}
+.head5 .inc {
+    padding: 10px;
+}
+.head5 .card .arrow {
+    margin-left: auto;
+    padding: 10px;
+
+}
+.head5 .card {
+    
+    background-color: white;
+    height: 35vh;
+    padding: 20px;
+    margin-top: 10px;
+} 
+.head5 h1 {
+            font-size: larger;
+}
+
+.cardgrp {
+    display: block;
+    row-gap: 30px;
+    
+}
+.head3 {
+   padding: 0px;
+   margin: 10px;
+}
+.head3 h1 {
+    font-size: 30px;
+    margin: 10px;
+
+}
+.head6 {
+    display: none;
+}
+.btm ul li {
+    padding-left: 30px;
+}
+.text-sm-first {
+    padding-left: 30px;
+}
+.custom-text {
+    font-size: 14px;
+}
+
+
+}
