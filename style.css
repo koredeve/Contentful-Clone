@@ -337,11 +337,6 @@ margin: 5px;
     display: none;
 }
 
-
-.navbar-nav .dropdown:hover {
-    display: none;
-    
-}
 .dropcar img {
     display: none;
 }
